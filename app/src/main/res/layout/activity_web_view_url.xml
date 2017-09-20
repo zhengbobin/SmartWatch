@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText_url"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_white_item"
+        android:gravity="top|left"
+        android:hint="不填则默认http://www.liangfeilong.win:9001/guanjia/main.html?name=18520891739&amp;password=123456"
+        android:maxHeight="200dp"
+        android:maxLength="140"
+        android:padding="5dp"
+        android:scrollbars="vertical" />
+
+    <Button
+        android:id="@+id/button_webView"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="调试" />
+
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font_size_10">10sp</dimen>
+    <dimen name="font_size_11">11sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_13">13sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_15">15sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_17">17sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_19">19sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_24">24sp</dimen>
+    <dimen name="font_size_30">30sp</dimen>
+    <dimen name="cursor_height">2dp</dimen>
+    <dimen name="height_50">50dp</dimen>
+    <dimen name="delete_action_len">100dp</dimen>
+    <!-- top bar -->
+    <dimen name="top_bar_left_textsize">17sp</dimen>
+    <dimen name="top_bar_middle_textsize">19sp</dimen>
+    <dimen name="top_bar_right_textsize">17sp</dimen>
+
+    <!-- 通用字体大小 -->
+    <dimen name="common_msg_title_textsize">17sp</dimen>
+    <dimen name="common_msg_textsize">15dp</dimen>
+    <!-- 我的 -->
+    <dimen name="login_textsize">18sp</dimen>
+    <!-- 快购订单界面 -->
+    <dimen name="pay_button_textsize">14sp</dimen>
+    <dimen name="image_size">50dp</dimen>
+    <dimen name="add_address_title_textsize">18sp</dimen>
+    <!-- 添加收货地址列表，大号字体 -->
+    <dimen name="list_address_large">17sp</dimen>
+    <dimen name="list_address_small">16sp</dimen>
+    <dimen name="main_menu">400dp</dimen>
+    <dimen name="main_menu_right">10dp</dimen>
+    <dimen name="main_menu_width">150dp</dimen>
+    <dimen name="main_menu_height">110dp</dimen>
+    <dimen name="text_left">65dp</dimen>
+    <dimen name="text_top">10dp</dimen>
+    <dimen name="estate_ranking_line_vertical">0.5dp</dimen>
+
+    <!-- mine 里的头像高度 -->
+    <dimen name="head_height_or_width">82dp</dimen>
+    <!-- mine 用户信息布局高度 -->
+    <dimen name="user_info_bg_height">124dp</dimen>
+    <!-- mine 用户信息文字大字体 -->
+    <dimen name="mine_word_size_big">17sp</dimen>
+    <!-- mine 用户信息文字小字体 -->
+    <dimen name="mine_word_size_small">15sp</dimen>
+
+    <!-- 验证信息界面 -->
+    <dimen name="verify_info_item_height">45dp</dimen>
+
+    <!-- 我的微店 -->
+    <dimen name="cs_hint_margin_left">12dp</dimen>
+    <dimen name="cs_item_text_size">16sp</dimen>
+    <dimen name="cs_item_height">48dp</dimen>
+    <dimen name="red_corner_button_height">45dp</dimen>
+    <dimen name="red_corner_button_text_size">17sp</dimen>
+
+    <!-- 访客通行 -->
+    <dimen name="fk_item_text_size">16sp</dimen>
+
+    <!-- ShoppingOrderInfoActivity -->
+    <dimen name="soi_text_size">16sp</dimen>
+    <dimen name="tab_home_text_margin">5dp</dimen>
+    <dimen name="tab_home_top_menu_width">150dp</dimen>
+    <dimen name="tab_home_top_menu_height">110dp</dimen>
+
+    <!-- 通用的字体大小 -->
+    <dimen name="common_text_size_big">19sp</dimen>
+    <dimen name="common_text_size_middle">17sp</dimen>
+    <dimen name="common_text_size_small">15sp</dimen>
+    <dimen name="wh_bg_appointment">320dp</dimen>
+    <dimen name="wh_bg_appointment2">300dp</dimen>
+    <dimen name="wh_head_appointment">48dp</dimen>
+    <dimen name="wh_head_appointment2">60dp</dimen>
+    <dimen name="service_option_height">100dp</dimen>
+    <dimen name="service_option_height2">130dp</dimen>
+    <dimen name="service_option_height3">90.2dp</dimen>
+    <dimen name="city_grid_height">40dp</dimen>
+    <dimen name="city_grid_height2">48dp</dimen>
+    <dimen name="city_grid_headtype">40dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>

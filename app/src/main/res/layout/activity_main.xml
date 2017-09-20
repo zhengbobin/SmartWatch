@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:orientation="vertical" >
+   
+    <Button
+        android:id="@+id/button_client"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="客户端调试"
+        android:layout_margin="10dp" />
+    
+    <Button
+        android:id="@+id/button_webView"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="网页调试"
+        android:layout_margin="10dp" />
+
+</LinearLayout>

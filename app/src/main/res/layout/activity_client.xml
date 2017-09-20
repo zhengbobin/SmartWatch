@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button_callPhone"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="拨打电话"
+        android:layout_margin="10dp" />
+    
+    <Button
+        android:id="@+id/button_sendSms"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="发送短信"
+        android:layout_margin="10dp" />
+    
+    <Button
+        android:id="@+id/button_recorder"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="长按录音"
+        android:layout_margin="10dp" />
+    
+    <Button
+        android:id="@+id/button_scanTwoDimensionCode"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_voice_center_btn_normal"
+        android:text="扫二维码"
+        android:layout_margin="10dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent2">#40000000</color>
+    <color name="transparent3">#80000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray_thin">#98ffffff</color>
+    <color name="main_tab_bottom">#F9F9F9</color>
+    <color name="pay_bg">#FAFAFA</color>
+
+    <color name="red">#FD1528</color>
+
+    <color name="color_text_public">#3C3C3C</color>
+    <color name="color_text_blue">#ff5a5f</color>
+    <color name="color_gray_thin">#E7E7E7</color>
+    <color name="activity_bg">#f6fbff</color>
+    <color name="touming">#00ffffff</color>
+    <color name="public_top_bar_bg">#E33125</color>
+
+    <drawable name="type_bg_pressed">#ffbbbbbb</drawable>
+    <drawable name="type_bg_normal">#ffffffff</drawable>
+
+    <color name="search_item_selected">#FFC33C</color>
+    <color name="search_item">#F5F5F5</color>
+    <color name="item_line">#D7D7D7</color>
+    <color name="gray_content">#9F9F9F</color>
+    <color name="gray_house_renting_title">#F4F4F4</color>
+    <color name="gray_payment">#707070</color>
+    <color name="gray_text">#99000000</color>
+    <color name="gray_exit">#646464</color>
+    <color name="province_line_border">#D0D0D0</color>
+
+    <!-- 联系物业界面 -->
+    <color name="property_border">#d5d5d5</color>
+    <color name="rate_service_textcolor">#ff5a5f</color>
+    <color name="property_name_textcolor">#404040</color>
+    <color name="property_msg_textcolor">#919496</color>
+
+    <drawable name="create_shop_normal">#fafafa</drawable>
+    <drawable name="create_shop_pressed">#E3E3E3</drawable>
+
+    <color name="gray_line_top">#DCDCDC</color>
+    <color name="blue_publish_check">#ff5a5f</color>
+    <color name="yellow">#F7F115</color>
+    <color name="common_yellow">#F0E68C</color>
+
+    <!-- 通用颜色 -->
+    <color name="blue">#ff5a5f</color>
+    <color name="gray">#F0F0F0</color>
+
+    <!-- 通用灰色字体颜色 -->
+    <color name="common_gray">#919496</color>
+    <!-- 通用绿色 -->
+    <color name="common_green">#00CC00</color>
+    <!-- 半透明 -->
+    <color name="common_half_transparent">#40000000</color>
+    <color name="common_touming">#20000000</color>
+    <color name="common_tm">#60000000</color>
+
+
+    <!-- 圆角框边框颜色 -->
+    <color name="border_corner_textcolor">#D5D5D5</color>
+    <!-- 购物车 -->
+    <color name="item_bg">#fff9f4</color>
+    <color name="red_types">#FF5A5F</color>
+
+    <!-- 积分拍卖界面 -->
+    <color name="integral_auction_lv_text_color">#6F6F6F</color>
+    <color name="integral_auction_lv_state_color">#B6B6B6</color>
+    <color name="integral_auction_detail_line_color">#E3E3E3</color>
+    <color name="integral_user_name_color">#ff5a5f</color>
+    <color name="auction_notice_textcolor">#6F6F6F</color>
+    <color name="auction_notice_title_textcolor">#414141</color>
+    <color name="integral_auction_detail_button_pressed_color">#000000</color>
+    <color name="main_title_black">#404040</color>
+    <color name="main_estate_assess_text_color">#474747</color>
+
+    <!-- 代金券界面 -->
+    <color name="voucher_price_bgcolor_gray">#969696</color>
+    <color name="voucher_price_bgcolor_red">#ff5a5f</color>
+
+    <!-- 设置 -->
+    <color name="mine_biankuang_color">#EBEBEB</color>
+
+    <!-- 补全信息 -->
+    <color name="add_user_info_getcode_1">#ff5a5f</color>
+    <color name="add_user_info_getcode_2">#ff5a5f</color>
+
+    <!-- 快送订单详情 -->
+    <!-- 深灰色字体 -->
+    <color name="order_info_text_dark">#404040</color>
+    <!-- 红色色快或者文字 -->
+    <color name="order_info_text_red_thin">#f24726</color>
+    <color name="order_info_text_red_dark">#e24425</color>
+
+    <color name="common_red_normal">#ff5a5f</color>
+    <color name="common_red_press">#f25245</color>
+    <color name="common_green_normal">#00ad00</color>
+    <color name="common_green_press">#00aa00</color>
+    <color name="common_transparent_normal">#20000000</color>
+    <color name="common_transparent_press">#30000000</color>
+    <color name="common_yellow_normal">#F1E68C</color>
+    <color name="common_yellow_press">#F2E68C</color>
+
+
+    <color name="background_f0">#F0F0F0</color>
+
+    <color name="top_rl">#0f3654</color>
+    <color name="title_bg_ohter_shop">#57b441</color>
+
+<!-- ************************* 通用的 ******************************************** -->
+
+    <!-- 分割线 -->
+    <color name="common_line">#eaeaea</color>
+    <!-- 浅灰色字体 -->
+    <color name="common_text_gray_thin">#989898</color>
+    <!-- 深灰色 -->
+    <color name="common_text_gray_dark">#404040</color>
+    <!-- 通用蓝色字体 -->
+    <color name="common_red2">#ff5a5f</color>
+    <!-- 通用蓝色字体 -->
+    <color name="common_blue">#358ef2</color>
+
+    <!-- 通用背景颜色 -->
+    <color name="common_bg">#f8f8f8</color>
+    <!-- 通用红色字体颜色 -->
+    <color name="common_red">#ff5a5f</color>
+
+<!-- ************************* 通用的 ******************************************** -->
+</resources>
