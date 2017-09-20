@@ -42,7 +42,7 @@ public class SmartWatchJSObject implements Serializable {
 	private Handler mHandler = new Handler();
 	
 	private File amrFile;// 语音文件
-	public static final String JS_NAME = "smartWatchJSObject";
+	public static final String JS_NAME = "javatojs";
 	//发送短信使用
 	SmsManager smsManager = SmsManager.getDefault();
 	
@@ -152,8 +152,41 @@ public class SmartWatchJSObject implements Serializable {
     	Intent intent = new Intent(activity, CaptureActivity.class);
         intent.putExtra(CaptureActivity.SCAN_INTENT_TYPE, CaptureActivity.MAIN_SCAN_TYPE);
         activity. startActivityForResult(intent,SCAN_TWO_DIMENSION_CODE);
-    } 
-    
-    
+    }
+
+
+	/**
+	 * How to fix: “NPMethod called on non-NPObject wrapped JSObject” error?
+	 *
+	 * function getColorNP() { // this will call error
+	 *		var func = mymovie.getColor;
+	 *		func();
+	 *		}
+	 *
+	 *	function getColorNP() { //this will work
+	 *		mymovie.getColor();
+	 *	}
+	 *
+	 * https://stackoverflow.com/questions/2464256/how-to-fix-npmethod-called-on-non-npobject-wrapped-jsobject-error
+	 */
+
+
+
+	/**
+	 * 分享
+	 *
+	 */
+	@JavascriptInterface
+	public void share() {
+		Toast.makeText(activity, "share action", Toast.LENGTH_SHORT).show();
+	}
+
+	/**
+	 * 返回首页
+	 */
+	@JavascriptInterface
+	public void returnIndex() {
+		Toast.makeText(activity, "returnIndex action", Toast.LENGTH_SHORT).show();
+	}
     
 }

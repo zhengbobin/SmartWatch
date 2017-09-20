@@ -17,6 +17,7 @@
         android:maxHeight="200dp"
         android:maxLength="140"
         android:padding="5dp"
+        android:text="https://webtest.xiaotucc.com/activity/newUser?uid=100"
         android:scrollbars="vertical" />
 
     <Button
